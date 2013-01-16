@@ -1,0 +1,10 @@
+
+maven project
+test environnement
+
+rest service to send mail
+form with name email message fields
+rest service to give token associated with email
+
+deploy to gae
+deploy to...
